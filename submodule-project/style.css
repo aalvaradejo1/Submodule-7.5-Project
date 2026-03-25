@@ -2,11 +2,15 @@
     background-color: whitesmoke;
     border-radius: 1rem;
     padding: 1rem;
-    font-family: "Merriweather", serif;}
+    font-family: "Merriweather", serif;
+    width:500px;
+
+}
 
 }
 .subtitle{
     text-transform: uppercase;
-    color: saddlebrown;
+    color: black;
     font-size: 1.2rem;
     font-weight: bold;
+}
