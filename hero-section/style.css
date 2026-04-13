@@ -3,3 +3,22 @@ h1{
     text-align:center;
 
 }
+.standout-box{
+background-color: whitesmoke;
+border-radius: 1rem;
+padding: 1rem;
+font-family: "Merriweather", serif;
+width:500px;
+
+}
+
+}
+.subtitle{
+text-transform: uppercase;
+color: black;
+font-size: 1.5rem;
+font-weight: bold;
+}
+.image{
+    position:center;
+}
