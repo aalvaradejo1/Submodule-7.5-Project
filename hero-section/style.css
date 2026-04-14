@@ -1,5 +1,5 @@
 h1{
-    color:blue;
+    color:black;
     text-align:center;
 
 }
@@ -22,8 +22,13 @@ color: black;
 font-size: 1.5rem;
 font-weight: bold;
 }
-img{
-    width:70%
-    height:450px;
+
+.hero-section{
+    background: url("https://images.theconversation.com/files/605800/original/file-20240709-18-ljpvlo.jpg?ixlib=rb-4.1.0&rect=0%2C0%2C5000%2C3330&q=50&auto=format&w=768&h=512&fit=crop&dpr=2");
+    background-size:cover;
+    backgroung-position: center center;
+    background-repeat:no-repeat;
+    heigth: 100vh;
+    width:100%
 
 }
